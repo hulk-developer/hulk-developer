@@ -5,7 +5,7 @@ on:
   push:
   pull_request:
 jobs:
-  update-readme-with-blog:
+  update-readme-with-videos:
     name: Update this repo's README with latest Youtube Videos
     runs-on: ubuntu-latest
     steps:
