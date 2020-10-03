@@ -55,3 +55,5 @@
 [tailwind]: https://www.youtube.com/feeds/videos.xml?playlist_id=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR
 
 ![Latest blog post workflow](https://github.com/hulk-developer/hulk-developer/workflows/Latest%20blog%20post%20workflow/badge.svg)
+
+[![Hulk's github stats](https://github-readme-stats.vercel.app/api?username=hulk-developer)](https://github.com/hulk-developer/github-readme-stats)
