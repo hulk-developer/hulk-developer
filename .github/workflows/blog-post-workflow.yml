@@ -14,3 +14,4 @@ jobs:
         with:
           feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
           max_post_count: 10
+          commit_message: "Updated Blog Posts"
