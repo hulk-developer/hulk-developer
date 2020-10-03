@@ -27,7 +27,7 @@
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />][website]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rust.svg" />][website]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />][website]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nuxt.svg" />][website]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nuxt-dot-js.svg" />][website]
 
 [website]: https://pygojs.me
 [twitter]: https://twitter.com/hulk_develop
