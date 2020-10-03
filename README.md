@@ -57,6 +57,10 @@
 ### Latest Youtube Videos:
 
 <!-- YOUTUBE:START -->
+- [Designing with Tailwind CSS: Setting up Tailwind and PostCSS](https://www.youtube.com/watch?v=21HuwjmuS7A)
+- [Designing with Tailwind CSS: Responsive Design](https://www.youtube.com/watch?v=Ff_n_QClipQ)
+- [Designing with Tailwind CSS: Hover, Focus, and Active Styles](https://www.youtube.com/watch?v=olyRu5R1EZ4)
+- [Designing with Tailwind CSS: Composing Utilities with @apply](https://www.youtube.com/watch?v=krSgBUmIgP0)
 <!-- YOUTUBE:END -->
 
 [website]: https://pygojs.me
