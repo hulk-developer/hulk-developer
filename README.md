@@ -44,3 +44,5 @@
 [twitter]: https://twitter.com/hulk_develop
 [instagram]: https://instagram.com/jane-natalie
 [tailwind]: https://www.youtube.com/playlist?list=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR
+
+![Latest blog post workflow](https://github.com/hulk-developer/hulk-developer/workflows/Latest%20blog%20post%20workflow/badge.svg)
