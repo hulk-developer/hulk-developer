@@ -56,4 +56,4 @@
 
 ![Latest blog post workflow](https://github.com/hulk-developer/hulk-developer/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
-[![Hulk's github stats](https://github-readme-stats.vercel.app/api?username=hulk-developer&show_icons=true&hide_borders=true)](https://github.com/hulk-developer)
+[![Hulk's github stats](https://github-readme-stats.vercel.app/api?username=hulk-developer&count_private=true&show_icons=true&hide_border=true)](https://github.com/hulk-developer)
