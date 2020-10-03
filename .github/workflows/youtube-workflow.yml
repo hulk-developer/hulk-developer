@@ -2,8 +2,7 @@ name: Latest Youtube Videos
 on:
   schedule: # Run workflow automatically
     - cron: "* * * * 5,6,0"
-  push:
-  pull_request:
+  workflow_dispatch: #Custom
 jobs:
   update-readme-with-videos:
     name: Update this repo's README with latest Youtube Videos
