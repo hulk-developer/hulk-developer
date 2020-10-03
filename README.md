@@ -9,6 +9,10 @@
 - Working at Udemy
 - Developer Advocate at Github
 
+<br />
+
+---
+
 ## Connect with me:
 
 [<img align="left" alt="hulk | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnome.svg" />][website]
@@ -35,7 +39,7 @@
 
 <br/>
 
-### Latest Blog Posts
+### Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
