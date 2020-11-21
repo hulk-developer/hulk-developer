@@ -46,12 +46,9 @@
 - [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 - [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 - [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
-- [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
 - [An Introduction to NumPy](https://dev.to/gautamkrishnar/an-introduction-to-numpy)
 - [Hi, I'm Gautam krishna.R](https://dev.to/gautamkrishnar/hi-im-gautam-krishnar)
-- [An Intro to NumPy](https://www.gautamkrishnar.com/an-intro-to-numpy/)
-- [Lessons from an attack](https://www.gautamkrishnar.com/lessons-from-an-attack/)
-- [A guide to GitHub CLI](https://www.gautamkrishnar.com/a-guide-to-github-cli/)
+- [DuckDuckGo – The search engine redefined](https://dev.to/gautamkrishnar/duckduckgo-the-search-engine-redefined-4c7d)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest Youtube Videos:
